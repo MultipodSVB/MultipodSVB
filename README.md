@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MultipodSVB
-- 👀 I’m interested in Software Development, Robotics and AI
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Software Development, Front End Development, Cybersecurity, Robotics and AI
+- 🌱 I’m currently learning Python and Javascript
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
